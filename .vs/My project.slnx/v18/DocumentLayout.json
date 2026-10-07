@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\butya\\onedrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\my project\\assets\\\u30B3\u30FC\u30C9\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\\u30B3\u30FC\u30C9\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\butya\\onedrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\my project\\assets\\\u30B3\u30FC\u30C9\\playerinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\\u30B3\u30FC\u30C9\\playerinteractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\butya\\onedrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\my project\\assets\\\u30B3\u30FC\u30C9\\cookingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\\u30B3\u30FC\u30C9\\cookingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\butya\\onedrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\my project\\assets\\\u30B3\u30FC\u30C9\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\\u30B3\u30FC\u30C9\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\Assets\\\u30B3\u30FC\u30C9\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\\u30B3\u30FC\u30C9\\GameManager.cs",
+              "ToolTip": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\Assets\\\u30B3\u30FC\u30C9\\GameManager.cs",
+              "RelativeToolTip": "Assets\\\u30B3\u30FC\u30C9\\GameManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:53:58.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\Assets\\\u30B3\u30FC\u30C9\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Assets\\\u30B3\u30FC\u30C9\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\Assets\\\u30B3\u30FC\u30C9\\Ingredient.cs",
+              "RelativeToolTip": "Assets\\\u30B3\u30FC\u30C9\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T03:52:07.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerInteractor.cs",
+              "DocumentMoniker": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\Assets\\\u30B3\u30FC\u30C9\\PlayerInteractor.cs",
+              "RelativeDocumentMoniker": "Assets\\\u30B3\u30FC\u30C9\\PlayerInteractor.cs",
+              "ToolTip": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\Assets\\\u30B3\u30FC\u30C9\\PlayerInteractor.cs",
+              "RelativeToolTip": "Assets\\\u30B3\u30FC\u30C9\\PlayerInteractor.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T07:37:18.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CookingTask.cs",
+              "DocumentMoniker": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\Assets\\\u30B3\u30FC\u30C9\\CookingTask.cs",
+              "RelativeDocumentMoniker": "Assets\\\u30B3\u30FC\u30C9\\CookingTask.cs",
+              "ToolTip": "C:\\Users\\butya\\OneDrive\\unity\\\u590F\u306E\u56DA\u4EBA\u3000\u672C\\My project\\Assets\\\u30B3\u30FC\u30C9\\CookingTask.cs",
+              "RelativeToolTip": "Assets\\\u30B3\u30FC\u30C9\\CookingTask.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:19:23.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
